@@ -14,7 +14,7 @@ html {
   top: 50%;
   transform: translate(0, -50%);
   color: #fff;
-  left: 200px;
+  left: 300px;
 }
 
 .page_title {
@@ -34,7 +34,7 @@ html {
 .container_description {
   position: fixed;
   top: 415px;
-  right: 200px;
+  right: 300px;
   padding-left: 20px;
   width: 500px;
   color: #adaaaa;
